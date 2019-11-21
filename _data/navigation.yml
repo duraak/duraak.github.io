@@ -1,0 +1,20 @@
+links:
+- name: Все
+  link: /blog/
+- name: снова
+  link: /tipmenu/
+- name: будет
+  link: /about/
+- name: заеби́сь!!
+  link: /newsletter/
+- name: Здоровье.
+  link: /health/
+
+#name: блог
+#link: /blog/
+#name: меню
+#link: /tipmenu/
+#name: около
+#link: /about/
+#name: новостная рассылка
+#link: /newsletter/

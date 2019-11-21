@@ -1,0 +1,33 @@
+- title: Pages
+  links:
+    - name: главная
+      link: /
+    - name: Все
+      link: /blog/
+    - name: снова
+      link: /tipmenu/
+    - name: будет
+      link: /about/
+    - name: заеби́сь!!
+      link: /newsletter/
+    - name: Здоровье.
+      link: /health/
+    - name: Бло-Здоровье
+      link: /blogH/
+- title: Social
+  links:
+    - name: Twitter
+      link: 
+      social_icon: Twitter
+      new_window: true
+
+#name: главная
+#link: /
+#name: меню
+#link: /tipmenu/
+#name: блог
+#link: /blog/
+#name: около
+#link: /about/
+#name: новостная рассылка
+#link: /newsletter/
